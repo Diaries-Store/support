@@ -1,7 +1,7 @@
 name: Invitation to the GitHub Community Organization
 description: I would like to be part of the awesome community
 title: "Please invite me to the GitHub Community Organization"
-labels: [invite me to the organisation]
+labels: [invitation]
 body:
   - type: input
     id: name
@@ -28,4 +28,4 @@ body:
     attributes:
       value: |
         You can also join our Discord community [here](http://discord.eddiehub.org)
-        Feel free to check out other cool repositories of the EddieHub Community [here](https://github.com/EddieHubCommunity)
+        Feel free to check out other cool repositories of the EddieHub Community [here](https://github.com/Diaries-Store)
